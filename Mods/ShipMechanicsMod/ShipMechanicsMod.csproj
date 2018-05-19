@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="mod_Conditionals.cs" />
     <Compile Include="PlayerModified.cs" />
     <Compile Include="POE2PatchInfo.cs" />
     <Compile Include="WorldMapPlayerModified.cs" />
